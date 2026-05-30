@@ -56,6 +56,7 @@ img{
 }
 .text-center{
     text-align: center;
+    display: flex;
 }
 .half{
     width: 50%;
