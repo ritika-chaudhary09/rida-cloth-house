@@ -1,0 +1,82 @@
+.class{
+    height: 90px;
+    background-color: rgb(155, 67, 150);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+
+}
+#contentBox{
+    height: 100%;
+    width: 33.3%;
+    background-color: brown;
+    margin: 15px;
+}
+#footer{ 
+    height: 120px; 
+    width: 180vh;
+    background-color: blue;
+} 
+body{ 
+    background-color: darkolivegreen;
+}
+p{
+    text-align: justify;
+}
+
+
+.navLinks{ 
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#logo{
+    height: 120px;
+    width: 120px;
+}
+.center{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 500px;
+    width: 450px;
+    margin: 15px;
+}
+#map{
+    height: 700px;
+    margin: 15px;
+}
+.text-center{
+    text-align: center;
+}
+.half{
+    width: 50%;
+    background-color: aquamarine;
+}
+#category{
+    height: 100%;
+    width: 25%;
+    background-color: rgb(159, 159, 214);
+    margin: 15px;
+}
+#options{
+    width: 75%;
+    height: 220vh;
+    background-color: palevioletred;
+}
+.cate{
+    height: 400px;
+    width: 33%;
+    margin: 20px;
+}
+.line{
+    display: flex;
+}
